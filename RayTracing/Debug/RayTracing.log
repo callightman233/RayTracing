@@ -1,0 +1,224 @@
+﻿  Renderer.cpp
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,21): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImage'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,21):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,11): error C2439: 'Walnut::Image::m_Image': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,11):
+  see declaration of 'Walnut::Image::m_Image'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImageView'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,29):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,15): error C2439: 'Walnut::Image::m_ImageView': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,15):
+  see declaration of 'Walnut::Image::m_ImageView'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,29):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,18): error C2439: 'Walnut::Image::m_Memory': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,18):
+  see declaration of 'Walnut::Image::m_Memory'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,25): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkSampler'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,25):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,13): error C2439: 'Walnut::Image::m_Sampler': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,13):
+  see declaration of 'Walnut::Image::m_Sampler'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,30): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkBuffer'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,30):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,12): error C2439: 'Walnut::Image::m_StagingBuffer': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,12):
+  see declaration of 'Walnut::Image::m_StagingBuffer'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,42): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,42):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,18): error C2439: 'Walnut::Image::m_StagingBufferMemory': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,18):
+  see declaration of 'Walnut::Image::m_StagingBufferMemory'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,37): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDescriptorSet'
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,37):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,19): error C2439: 'Walnut::Image::m_DescriptorSet': member could not be initialized
+  (compiling source file 'src/Renderer.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,19):
+  see declaration of 'Walnut::Image::m_DescriptorSet'
+  
+  Renderer.h
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,21): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImage'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,21):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,11): error C2439: 'Walnut::Image::m_Image': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,11):
+  see declaration of 'Walnut::Image::m_Image'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImageView'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,29):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,15): error C2439: 'Walnut::Image::m_ImageView': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,15):
+  see declaration of 'Walnut::Image::m_ImageView'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,29):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,18): error C2439: 'Walnut::Image::m_Memory': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,18):
+  see declaration of 'Walnut::Image::m_Memory'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,25): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkSampler'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,25):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,13): error C2439: 'Walnut::Image::m_Sampler': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,13):
+  see declaration of 'Walnut::Image::m_Sampler'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,30): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkBuffer'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,30):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,12): error C2439: 'Walnut::Image::m_StagingBuffer': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,12):
+  see declaration of 'Walnut::Image::m_StagingBuffer'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,42): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,42):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,18): error C2439: 'Walnut::Image::m_StagingBufferMemory': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,18):
+  see declaration of 'Walnut::Image::m_StagingBufferMemory'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,37): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDescriptorSet'
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,37):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,19): error C2439: 'Walnut::Image::m_DescriptorSet': member could not be initialized
+  (compiling source file 'src/Renderer.h')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,19):
+  see declaration of 'Walnut::Image::m_DescriptorSet'
+  
+  WalnutApp.cpp
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,21): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImage'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,21):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,11): error C2439: 'Walnut::Image::m_Image': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(37,11):
+  see declaration of 'Walnut::Image::m_Image'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkImageView'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,29):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,15): error C2439: 'Walnut::Image::m_ImageView': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(38,15):
+  see declaration of 'Walnut::Image::m_ImageView'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,29): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,29):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,18): error C2439: 'Walnut::Image::m_Memory': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(39,18):
+  see declaration of 'Walnut::Image::m_Memory'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,25): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkSampler'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,25):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,13): error C2439: 'Walnut::Image::m_Sampler': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(40,13):
+  see declaration of 'Walnut::Image::m_Sampler'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,30): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkBuffer'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,30):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,12): error C2439: 'Walnut::Image::m_StagingBuffer': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(44,12):
+  see declaration of 'Walnut::Image::m_StagingBuffer'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,42): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDeviceMemory'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,42):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,18): error C2439: 'Walnut::Image::m_StagingBufferMemory': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(45,18):
+  see declaration of 'Walnut::Image::m_StagingBufferMemory'
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,37): error C2440: 'initializing': cannot convert from 'nullptr' to 'VkDescriptorSet'
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,37):
+  A native nullptr can only be converted to bool or, using reinterpret_cast, to an integral type
+  
+H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,19): error C2439: 'Walnut::Image::m_DescriptorSet': member could not be initialized
+  (compiling source file 'src/WalnutApp.cpp')
+  H:\RayTracing\Walnut\Walnut\src\Walnut\Image.h(49,19):
+  see declaration of 'Walnut::Image::m_DescriptorSet'
+  
+H:\RayTracing\RayTracing\src\WalnutApp.cpp(28,51): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+H:\RayTracing\RayTracing\src\WalnutApp.cpp(29,51): warning C4244: '=': conversion from 'float' to 'uint32_t', possible loss of data
+H:\RayTracing\RayTracing\src\WalnutApp.cpp(34,11): error C2664: 'void ImGui::Image(ImTextureID,const ImVec2 &,const ImVec2 &,const ImVec2 &,const ImVec4 &,const ImVec4 &)': cannot convert argument 1 from 'VkDescriptorSet' to 'ImTextureID'
+  H:\RayTracing\RayTracing\src\WalnutApp.cpp(34,40):
+  Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  H:\RayTracing\Walnut\vendor\imgui\imgui.h(518,29):
+  see declaration of 'ImGui::Image'
+  H:\RayTracing\RayTracing\src\WalnutApp.cpp(34,11):
+  while trying to match the argument list '(VkDescriptorSet, initializer list)'
+  
+  Generating Code...
